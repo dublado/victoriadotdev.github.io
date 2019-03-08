@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Api on victoria.dev</title>
+    <link>https://victoria.dev/tags/api/</link>
+    <description>Recent content in Api on victoria.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>hello@victoria.dev (Victoria)</managingEditor>
+    <webMaster>hello@victoria.dev (Victoria)</webMaster>
+    <lastBuildDate>Thu, 12 Apr 2018 10:51:15 -0500</lastBuildDate>
+    
+	<atom:link href="https://victoria.dev/tags/api/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why I&#39;m automatically deleting my old tweets using AWS Lambda</title>
+      <link>https://victoria.dev/verbose/why-im-automatically-deleting-my-old-tweets-using-aws-lambda/</link>
+      <pubDate>Thu, 12 Apr 2018 10:51:15 -0500</pubDate>
+      <author>hello@victoria.dev (Victoria)</author>
+      <guid>https://victoria.dev/verbose/why-im-automatically-deleting-my-old-tweets-using-aws-lambda/</guid>
+      <description>From now on, my tweets are ephemeral. Here’s why I’m deleting all my old tweets, and the AWS Lambda function I’m using to do all this for free.
+Click here to skip to the code part.
+Stuff and opinions I&amp;rsquo;ve only been a one-bag nomad for a little over a year and a half. Before that, I lived as most people do in an apartment or a house. I owned furniture, more clothing than I strictly needed, and enough &amp;ldquo;stuff&amp;rdquo; to fill at least a few moving boxes.</description>
+    </item>
+    
+    <item>
+      <title>The basics of streaming with Twitter API</title>
+      <link>https://victoria.dev/verbose/the-basics-of-streaming-with-twitter-api/</link>
+      <pubDate>Fri, 06 Jan 2017 16:39:29 +0700</pubDate>
+      <author>hello@victoria.dev (Victoria)</author>
+      <guid>https://victoria.dev/verbose/the-basics-of-streaming-with-twitter-api/</guid>
+      <description>This post covers my initial adventures in exploring Twitter&amp;rsquo;s Streaming API. I&amp;rsquo;ll talk about:
+ Getting started making a Twitter Streaming program using a template Problems arising from programming in Python with Windows 10 and Unicode Refining the search function  You can follow along with my template on Github.
+1. Getting started If you&amp;rsquo;re new to Twitter&amp;rsquo;s Streaming API like I was this morning, here it is from the top.</description>
+    </item>
+    
+  </channel>
+</rss>

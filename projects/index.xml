@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Selected Projects on victoria.dev</title>
+    <link>https://victoria.dev/projects/</link>
+    <description>Recent content in Selected Projects on victoria.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>hello@victoria.dev (Victoria)</managingEditor>
+    <webMaster>hello@victoria.dev (Victoria)</webMaster>
+    <lastBuildDate>Sat, 19 Jan 2019 19:13:22 -0500</lastBuildDate>
+    
+	<atom:link href="https://victoria.dev/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ApplyByAPI.com</title>
+      <link>https://victoria.dev/projects/aba/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>hello@victoria.dev (Victoria)</author>
+      <guid>https://victoria.dev/projects/aba/</guid>
+      <description>A relevant, automated, and effective pre-screening tool for hiring technical candidates. ApplyByAPI is built to be a scalable solution that greatly reduces human time and effort spent on the hiring process.
+Python, Django, AWS, Stripe API, jQuery</description>
+    </item>
+    
+    <item>
+      <title>Introduction, a theme for Hugo</title>
+      <link>https://victoria.dev/projects/hugo-introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>hello@victoria.dev (Victoria)</author>
+      <guid>https://victoria.dev/projects/hugo-introduction/</guid>
+      <description>Responsive, full-featured, and customizable theme for the popular static site generator Hugo. Focused on minimalism and adaptability. Open source on GitHub.
+SCSS, Go, Node.js, jQuery</description>
+    </item>
+    
+    <item>
+      <title>Make your Tweets ephemeral</title>
+      <link>https://victoria.dev/projects/ephemeral/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>hello@victoria.dev (Victoria)</author>
+      <guid>https://victoria.dev/projects/ephemeral/</guid>
+      <description>A function for AWS Lambda that continuously deletes Tweets from your Twitter timeline according to a configurable expiry time. Read the accompanying article.
+Go, AWS Lambda, Twitter API</description>
+    </item>
+    
+    <item>
+      <title>A post-apocalyptic Simon game</title>
+      <link>https://victoria.dev/projects/simon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>hello@victoria.dev (Victoria)</author>
+      <guid>https://victoria.dev/projects/simon/</guid>
+      <description>A reinvention of the classic Simon game with an RPG theme, implemented in JavaScript as a finite-state machine. Offers a choice of play modes with custom CSS effects.</description>
+    </item>
+    
+    <item>
+      <title>A Unicode-to-fancy-letters converter</title>
+      <link>https://victoria.dev/projects/fancy-unicode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>hello@victoria.dev (Victoria)</author>
+      <guid>https://victoria.dev/projects/fancy-unicode/</guid>
+      <description>A single-page app that instantly converts plain-looking letters into their fancier extended Unicode character representations. It uses an algorithm based on the Caesar cipher from classical cryptography. Further details in this article.</description>
+    </item>
+    
+    <item>
+      <title>More open source projects</title>
+      <link>https://victoria.dev/projects/github/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>hello@victoria.dev (Victoria)</author>
+      <guid>https://victoria.dev/projects/github/</guid>
+      <description>To fully immerse yourself in the delectable smorgasbord that is my complete open source project work, visit my GitHub page.</description>
+    </item>
+    
+  </channel>
+</rss>

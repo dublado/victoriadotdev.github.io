@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on victoria.dev</title>
+    <link>https://victoria.dev/tags/</link>
+    <description>Recent content in Tags on victoria.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>hello@victoria.dev (Victoria)</managingEditor>
+    <webMaster>hello@victoria.dev (Victoria)</webMaster>
+    <lastBuildDate>Wed, 30 May 2018 14:08:28 -0400</lastBuildDate>
+    
+	<atom:link href="https://victoria.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Algorithms</title>
+      <link>https://victoria.dev/tags/algorithms/</link>
+      <pubDate>Wed, 30 May 2018 14:08:28 -0400</pubDate>
+      <author>hello@victoria.dev (Victoria)</author>
+      <guid>https://victoria.dev/tags/algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Api</title>
+      <link>https://victoria.dev/tags/api/</link>
+      <pubDate>Thu, 12 Apr 2018 10:51:15 -0500</pubDate>
+      <author>hello@victoria.dev (Victoria)</author>
+      <guid>https://victoria.dev/tags/api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aws</title>
+      <link>https://victoria.dev/tags/aws/</link>
+      <pubDate>Thu, 12 Apr 2018 10:51:15 -0500</pubDate>
+      <author>hello@victoria.dev (Victoria)</author>
+      <guid>https://victoria.dev/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coding</title>
+      <link>https://victoria.dev/tags/coding/</link>
+      <pubDate>Mon, 06 Aug 2018 08:54:56 -0400</pubDate>
+      <author>hello@victoria.dev (Victoria)</author>
+      <guid>https://victoria.dev/tags/coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data</title>
+      <link>https://victoria.dev/tags/data/</link>
+      <pubDate>Wed, 09 May 2018 21:00:35 -0400</pubDate>
+      <author>hello@victoria.dev (Victoria)</author>
+      <guid>https://victoria.dev/tags/data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>https://victoria.dev/tags/git/</link>
+      <pubDate>Mon, 06 Aug 2018 08:54:56 -0400</pubDate>
+      <author>hello@victoria.dev (Victoria)</author>
+      <guid>https://victoria.dev/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go</title>
+      <link>https://victoria.dev/tags/go/</link>
+      <pubDate>Wed, 30 May 2018 14:08:28 -0400</pubDate>
+      <author>hello@victoria.dev (Victoria)</author>
+      <guid>https://victoria.dev/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>https://victoria.dev/tags/javascript/</link>
+      <pubDate>Thu, 14 Jun 2018 13:12:02 -0400</pubDate>
+      <author>hello@victoria.dev (Victoria)</author>
+      <guid>https://victoria.dev/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>https://victoria.dev/tags/life/</link>
+      <pubDate>Mon, 02 Jul 2018 10:08:41 -0400</pubDate>
+      <author>hello@victoria.dev (Victoria)</author>
+      <guid>https://victoria.dev/tags/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://victoria.dev/tags/linux/</link>
+      <pubDate>Mon, 20 Nov 2017 13:59:30 -0500</pubDate>
+      <author>hello@victoria.dev (Victoria)</author>
+      <guid>https://victoria.dev/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://victoria.dev/tags/python/</link>
+      <pubDate>Wed, 18 Jan 2017 21:58:28 +0700</pubDate>
+      <author>hello@victoria.dev (Victoria)</author>
+      <guid>https://victoria.dev/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Terminal</title>
+      <link>https://victoria.dev/tags/terminal/</link>
+      <pubDate>Mon, 06 Aug 2018 08:54:56 -0400</pubDate>
+      <author>hello@victoria.dev (Victoria)</author>
+      <guid>https://victoria.dev/tags/terminal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Websites</title>
+      <link>https://victoria.dev/tags/websites/</link>
+      <pubDate>Wed, 10 Jan 2018 08:56:20 -0500</pubDate>
+      <author>hello@victoria.dev (Victoria)</author>
+      <guid>https://victoria.dev/tags/websites/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
