@@ -8,10 +8,20 @@
     <language>en-us</language>
     <managingEditor>hello@victoria.dev (Victoria)</managingEditor>
     <webMaster>hello@victoria.dev (Victoria)</webMaster>
-    <lastBuildDate>Mon, 06 Aug 2018 08:54:56 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2019 18:36:15 -0500</lastBuildDate>
     
 	<atom:link href="https://victoria.dev/verbose/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>On doing great things</title>
+      <link>https://victoria.dev/verbose/on-doing-great-things/</link>
+      <pubDate>Fri, 08 Mar 2019 18:36:15 -0500</pubDate>
+      <author>hello@victoria.dev (Victoria)</author>
+      <guid>https://victoria.dev/verbose/on-doing-great-things/</guid>
+      <description>It&amp;rsquo;s International Women&amp;rsquo;s Day, and I&amp;rsquo;m thinking about Grace Hopper.
+Grace Hopper was an amazing lady who did great things. She envisioned and helped create programming languages that translate English terms into machine code. She persevered in her intention to join the US Navy from the time she was rejected at 34 years old, to being sworn in to the US Navy Reserve three years later, to retiring with the rank of commander at age 60&amp;hellip; then was recalled (twice) and promoted to the rank of captain at the age of 67.</description>
+    </item>
     
     <item>
       <title>Git commit practices your future self will thank you for</title>
