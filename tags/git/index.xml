@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Git on victoria.dev</title>
     <link>https://victoria.dev/tags/git/</link>
@@ -10,7 +10,7 @@
     <webMaster>hello@victoria.dev (Victoria)</webMaster>
     <lastBuildDate>Mon, 06 Aug 2018 08:54:56 -0400</lastBuildDate>
     
-	<atom:link href="https://victoria.dev/tags/git/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://victoria.dev/tags/git/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,6 +21,11 @@
       <guid>https://victoria.dev/verbose/git-commit-practices-your-future-self-will-thank-you-for/</guid>
       <description>A history of clean commits can be evidence of a lot of things: attention to detail, good work ethic, and genuine investment in the project. What do your Git commits say about you?
 If, like me, there might be one or two less than stellar ones, well, we&amp;rsquo;re only human. A nice part of being human is having the ability to learn new and complex things fairly quickly, and continuously improve ourselves.</description>
+      <content:encoded>
+        
+            &lt;![CDATA[https://victoria.dev/tags/git/git-commit-art.png]]&gt;
+        
+      </content:encoded>
     </item>
     
     <item>
@@ -31,6 +36,11 @@ If, like me, there might be one or two less than stellar ones, well, we&amp;rsqu
       <guid>https://victoria.dev/verbose/an-automatic-interactive-pre-commit-checklist-in-the-style-of-infomercials/</guid>
       <description>What&amp;rsquo;s that, you say? You&amp;rsquo;ve become tired of regular old boring paper checklists? Well, my friend, today is your lucky day! You, yes, you, can become the proud owner of a brand-spanking-new automatic interactive pre-commit hook checklist! You&amp;rsquo;re gonna love this! Your life will be so much easier! Just wait until your friends see you.
 What&amp;rsquo;s a pre-commit hook? Did you know that nearly 1 out of 5 coders are too embarrassed to ask this question?</description>
+      <content:encoded>
+        
+            &lt;![CDATA[https://victoria.dev/tags/git/precommit-infomercial.png]]&gt;
+        
+      </content:encoded>
     </item>
     
   </channel>

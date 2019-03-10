@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Life on victoria.dev</title>
     <link>https://victoria.dev/tags/life/</link>
@@ -10,7 +10,7 @@
     <webMaster>hello@victoria.dev (Victoria)</webMaster>
     <lastBuildDate>Fri, 08 Mar 2019 18:36:15 -0500</lastBuildDate>
     
-	<atom:link href="https://victoria.dev/tags/life/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://victoria.dev/tags/life/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,6 +21,11 @@
       <guid>https://victoria.dev/verbose/on-doing-great-things/</guid>
       <description>It&amp;rsquo;s International Women&amp;rsquo;s Day, and I&amp;rsquo;m thinking about Grace Hopper.
 Grace Hopper was an amazing lady who did great things. She envisioned and helped create programming languages that translate English terms into machine code. She persevered in her intention to join the US Navy from the time she was rejected at 34 years old, to being sworn in to the US Navy Reserve three years later, to retiring with the rank of commander at age 60&amp;hellip; then was recalled (twice) and promoted to the rank of captain at the age of 67.</description>
+      <content:encoded>
+        
+            &lt;![CDATA[https://victoria.dev/tags/life/grace-murray-hopper-park.jpeg]]&gt;
+        
+      </content:encoded>
     </item>
     
     <item>
@@ -30,6 +35,11 @@ Grace Hopper was an amazing lady who did great things. She envisioned and helped
       <author>hello@victoria.dev (Victoria)</author>
       <guid>https://victoria.dev/verbose/how-to-set-up-a-short-feedback-loop-as-a-solo-coder/</guid>
       <description>I&amp;rsquo;ve spent the last couple years as a solo freelance developer. Comparing this experience to previously working in companies, I&amp;rsquo;ve noticed that those of us who work alone can have fewer iterative opportunities for improvement than developers who work on teams. Integral to having opportunities to improve is the concept of a short feedback loop: a process of incorporating new learning from observation and previous experience continuously over a short period of time.</description>
+      <content:encoded>
+        
+            &lt;![CDATA[https://victoria.dev/tags/life/feedback-pbjreview.png]]&gt;
+        
+      </content:encoded>
     </item>
     
     <item>
@@ -41,6 +51,11 @@ Grace Hopper was an amazing lady who did great things. She envisioned and helped
       <description>From now on, my tweets are ephemeral. Here’s why I’m deleting all my old tweets, and the AWS Lambda function I’m using to do all this for free.
 Click here to skip to the code part.
 Stuff and opinions I&amp;rsquo;ve only been a one-bag nomad for a little over a year and a half. Before that, I lived as most people do in an apartment or a house. I owned furniture, more clothing than I strictly needed, and enough &amp;ldquo;stuff&amp;rdquo; to fill at least a few moving boxes.</description>
+      <content:encoded>
+        
+            &lt;![CDATA[https://victoria.dev/tags/life/ephemeral.jpg]]&gt;
+        
+      </content:encoded>
     </item>
     
     <item>
@@ -51,6 +66,11 @@ Stuff and opinions I&amp;rsquo;ve only been a one-bag nomad for a little over a 
       <guid>https://victoria.dev/verbose/about-time/</guid>
       <description>This morning I read an article that&amp;rsquo;s been making the rounds lately: Modern Media Is a DoS Attack on Your Free Will.
 It&amp;rsquo;s made me think, which I must admit, I at first didn&amp;rsquo;t like. See, when I wake up in the morning (and subsequently wake up my computer) the first thing I do is go on Twitter to catch up on everything I missed while I was asleep. All this before my first coffee, mind you.</description>
+      <content:encoded>
+        
+            &lt;![CDATA[https://victoria.dev/tags/life/fuji-fog.jpeg]]&gt;
+        
+      </content:encoded>
     </item>
     
     <item>
@@ -61,6 +81,11 @@ It&amp;rsquo;s made me think, which I must admit, I at first didn&amp;rsquo;t li
       <guid>https://victoria.dev/verbose/things-you-need-to-know-about-becoming-a-data-scientist/</guid>
       <description>I recently attended a panel discussion hosted by General Assembly in Singapore entitled, &amp;ldquo;So you want to be a Data Scientist/Analyst&amp;rdquo;. The panel featured professionals in different stages of their careers and offered a wealth of information to an audience of hopefuls, including tips on how to land a job as a data scientist, and stories debunking myths that color this field.
 The panelists Misrab Faizullah-Khan - VP of Data Science, GO_JEK</description>
+      <content:encoded>
+        
+            &lt;![CDATA[https://victoria.dev/tags/life/datasci-panelists.jpg]]&gt;
+        
+      </content:encoded>
     </item>
     
   </channel>

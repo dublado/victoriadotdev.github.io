@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Websites on victoria.dev</title>
     <link>https://victoria.dev/tags/websites/</link>
@@ -10,7 +10,7 @@
     <webMaster>hello@victoria.dev (Victoria)</webMaster>
     <lastBuildDate>Wed, 10 Jan 2018 08:56:20 -0500</lastBuildDate>
     
-	<atom:link href="https://victoria.dev/tags/websites/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://victoria.dev/tags/websites/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,6 +21,11 @@
       <guid>https://victoria.dev/verbose/moving-to-a-new-domain-without-breaking-old-links-with-aws-disqus/</guid>
       <description>I started blogging about my nomadic travels last year, and so far the habit has stuck. Like all side projects, I won&amp;rsquo;t typically invest heavily in setting up web properties before I can be reasonably certain that such an investment is worth my time or enjoyment. In other words: don&amp;rsquo;t buy the domain until you&amp;rsquo;ve proven to yourself that you&amp;rsquo;ll stick with it!
 After some months of regular posting I felt I was ready to commit (short courtship, I know, but we&amp;rsquo;re all adults here) and I bought a dedicated domain, herOneBag.</description>
+      <content:encoded>
+        
+            &lt;![CDATA[https://victoria.dev/tags/websites/aws-moving.png]]&gt;
+        
+      </content:encoded>
     </item>
     
     <item>
@@ -31,6 +36,11 @@ After some months of regular posting I felt I was ready to commit (short courtsh
       <guid>https://victoria.dev/verbose/hosting-your-static-site-with-aws-s3-route-53-and-cloudfront/</guid>
       <description>Some time ago I decided to stop freeloading on GitHub pages and move one of my sites to Amazon Web Services (AWS). It turns out that I&amp;rsquo;m still mostly freeloading (yay free tier) so it amounted to a learning experience. Here are the components that let me host and serve the site at my custom domain with HTTPS.
  Static site in Amazon Web Services S3 bucket Route 53 handling the DNS CloudFront for distribution and a custom SSL certificate  I set all that up most of a year ago.</description>
+      <content:encoded>
+        
+            &lt;![CDATA[https://victoria.dev/tags/websites/aws-questions.png]]&gt;
+        
+      </content:encoded>
     </item>
     
     <item>
@@ -40,6 +50,11 @@ After some months of regular posting I felt I was ready to commit (short courtsh
       <author>hello@victoria.dev (Victoria)</author>
       <guid>https://victoria.dev/verbose/how-i-ditched-wordpress-and-set-up-my-custom-domain-https-site-for-almost-free/</guid>
       <description>&lt;p&gt;I got annoyed with WordPress.com. While using the service has its pros (like https and a mobile responsive website, and being very visual and beginner-friendly) it&amp;rsquo;s limiting. For someone who&amp;rsquo;s comfortable enough to be tweaking CSS but who&amp;rsquo;s not interested in creating their own theme (or paying upwards of $50 for one), I felt I wasn&amp;rsquo;t really the type of consumer WordPress.com was suited to.&lt;/p&gt;</description>
+      <content:encoded>
+        
+            &lt;![CDATA[https://victoria.dev/tags/websites/free-https.png]]&gt;
+        
+      </content:encoded>
     </item>
     
   </channel>

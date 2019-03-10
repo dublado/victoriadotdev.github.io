@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Data on victoria.dev</title>
     <link>https://victoria.dev/tags/data/</link>
@@ -10,7 +10,7 @@
     <webMaster>hello@victoria.dev (Victoria)</webMaster>
     <lastBuildDate>Wed, 09 May 2018 21:00:35 -0400</lastBuildDate>
     
-	<atom:link href="https://victoria.dev/tags/data/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://victoria.dev/tags/data/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,6 +21,11 @@
       <guid>https://victoria.dev/verbose/knapsack-problem-algorithms-for-my-real-life-carry-on-knapsack/</guid>
       <description>The knapsack problem I&amp;rsquo;m a nomad and live out of one carry-on bag. This means that the total weight of all my worldly possessions must fall under airline cabin baggage weight limits - usually 10kg. On some smaller airlines, however, this weight limit drops to 7kg. Occasionally, I have to decide not to bring something with me to adjust to the smaller weight limit.
 As a practical exercise, deciding what to leave behind (or get rid of altogether) entails laying out all my things and choosing which ones to keep.</description>
+      <content:encoded>
+        
+            &lt;![CDATA[https://victoria.dev/tags/data/knapsack-doodle.png]]&gt;
+        
+      </content:encoded>
     </item>
     
     <item>
@@ -31,6 +36,11 @@ As a practical exercise, deciding what to leave behind (or get rid of altogether
       <guid>https://victoria.dev/verbose/things-you-need-to-know-about-becoming-a-data-scientist/</guid>
       <description>I recently attended a panel discussion hosted by General Assembly in Singapore entitled, &amp;ldquo;So you want to be a Data Scientist/Analyst&amp;rdquo;. The panel featured professionals in different stages of their careers and offered a wealth of information to an audience of hopefuls, including tips on how to land a job as a data scientist, and stories debunking myths that color this field.
 The panelists Misrab Faizullah-Khan - VP of Data Science, GO_JEK</description>
+      <content:encoded>
+        
+            &lt;![CDATA[https://victoria.dev/tags/data/datasci-panelists.jpg]]&gt;
+        
+      </content:encoded>
     </item>
     
   </channel>

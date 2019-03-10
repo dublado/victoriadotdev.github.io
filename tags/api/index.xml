@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Api on victoria.dev</title>
     <link>https://victoria.dev/tags/api/</link>
@@ -10,7 +10,7 @@
     <webMaster>hello@victoria.dev (Victoria)</webMaster>
     <lastBuildDate>Thu, 12 Apr 2018 10:51:15 -0500</lastBuildDate>
     
-	<atom:link href="https://victoria.dev/tags/api/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://victoria.dev/tags/api/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -22,6 +22,11 @@
       <description>From now on, my tweets are ephemeral. Here’s why I’m deleting all my old tweets, and the AWS Lambda function I’m using to do all this for free.
 Click here to skip to the code part.
 Stuff and opinions I&amp;rsquo;ve only been a one-bag nomad for a little over a year and a half. Before that, I lived as most people do in an apartment or a house. I owned furniture, more clothing than I strictly needed, and enough &amp;ldquo;stuff&amp;rdquo; to fill at least a few moving boxes.</description>
+      <content:encoded>
+        
+            &lt;![CDATA[https://victoria.dev/tags/api/ephemeral.jpg]]&gt;
+        
+      </content:encoded>
     </item>
     
     <item>
@@ -33,6 +38,11 @@ Stuff and opinions I&amp;rsquo;ve only been a one-bag nomad for a little over a 
       <description>This post covers my initial adventures in exploring Twitter&amp;rsquo;s Streaming API. I&amp;rsquo;ll talk about:
  Getting started making a Twitter Streaming program using a template Problems arising from programming in Python with Windows 10 and Unicode Refining the search function  You can follow along with my template on Github.
 1. Getting started If you&amp;rsquo;re new to Twitter&amp;rsquo;s Streaming API like I was this morning, here it is from the top.</description>
+      <content:encoded>
+        
+            &lt;![CDATA[https://victoria.dev/tags/api/twitter-stream.png]]&gt;
+        
+      </content:encoded>
     </item>
     
   </channel>

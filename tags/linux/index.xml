@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Linux on victoria.dev</title>
     <link>https://victoria.dev/tags/linux/</link>
@@ -10,7 +10,7 @@
     <webMaster>hello@victoria.dev (Victoria)</webMaster>
     <lastBuildDate>Mon, 20 Nov 2017 13:59:30 -0500</lastBuildDate>
     
-	<atom:link href="https://victoria.dev/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://victoria.dev/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,6 +21,11 @@
       <guid>https://victoria.dev/verbose/batch-renaming-images-including-image-resolution-with-awk/</guid>
       <description>The most recent item on my list of &amp;ldquo;Geeky things I did that made me feel pretty awesome&amp;rdquo; is an hour&amp;rsquo;s adventure that culminated in this code:
 $ file IMG* | awk &amp;#39;BEGIN{a=0} {print substr($1, 1, length($1)-5),a++&amp;#34;_&amp;#34;substr($8,1, length($8)-1)}&amp;#39; | while read fn fr; do echo $(rename -v &amp;#34;s/$fn/img_$fr/g&amp;#34; *); done IMG_20170808_172653_425.jpg renamed as img_0_4032x3024.jpg IMG_20170808_173020_267.jpg renamed as img_1_3024x3506.jpg IMG_20170808_173130_616.jpg renamed as img_2_3024x3779.jpg IMG_20170808_173221_425.jpg renamed as img_3_3024x3780.jpg IMG_20170808_173417_059.jpg renamed as img_4_2956x2980.</description>
+      <content:encoded>
+        
+            &lt;![CDATA[https://victoria.dev/tags/linux/renaming-rainbow.png]]&gt;
+        
+      </content:encoded>
     </item>
     
     <item>
@@ -30,6 +35,11 @@ $ file IMG* | awk &amp;#39;BEGIN{a=0} {print substr($1, 1, length($1)-5),a++&amp
       <author>hello@victoria.dev (Victoria)</author>
       <guid>https://victoria.dev/verbose/how-i-turned-unity-into-a-tiling-window-manager/</guid>
       <description>Since Ubuntu 17.10, a default installation of Ubuntu Desktop uses GNOME instead of Unity. For an overview of my Linux set up with Ubuntu 18.04 LTS, please see [@@@]. After a long and loving battle experience using i3 as my workhorse window manager on my old laptop, I&amp;rsquo;ve decided to mainly use Unity on my new laptop instead. I&amp;rsquo;m a huge fan of tiling window managers as a result of my i3 experience, however, the time it took to configure everything is longer than I wanted to spend getting set up before getting to work with my new laptop.</description>
+      <content:encoded>
+        
+            &lt;![CDATA[https://victoria.dev/tags/linux/tilewm-unity.png]]&gt;
+        
+      </content:encoded>
     </item>
     
     <item>
@@ -40,6 +50,11 @@ $ file IMG* | awk &amp;#39;BEGIN{a=0} {print substr($1, 1, length($1)-5),a++&amp
       <guid>https://victoria.dev/verbose/how-i-set-up-a-single-dropbox-folder-on-my-dual-boot-windows-and-linux-system/</guid>
       <description>This article is deprecated. For an overview of an updated and truly cross-platform remote sync solution based on Git, please see this article: A remote sync solution for iOS and Linux: Git and Working Copy. June 14, 2018: Ben Newhouse, former head of Sync at Dropbox, was kind enough to inform me that this set up might have unintended ill effects on your Dropbox data:
  Dropbox on Windows and Linux maintain metadata on each OS differently, so they&amp;rsquo;ll confuse each other.</description>
+      <content:encoded>
+        
+            &lt;![CDATA[https://victoria.dev/tags/linux/dropbox-sync.png]]&gt;
+        
+      </content:encoded>
     </item>
     
     <item>
@@ -49,6 +64,11 @@ $ file IMG* | awk &amp;#39;BEGIN{a=0} {print substr($1, 1, length($1)-5),a++&amp
       <author>hello@victoria.dev (Victoria)</author>
       <guid>https://victoria.dev/verbose/how-i-created-custom-desktop-notifications-using-terminal-and-cron/</guid>
       <description>In my last post I talked about moving from Windows 10 to running i3 on Linux, built up from Debian Base System. Among other things, this change has taught me about the benefits of using basic tools and running a minimal, lightweight system. You can achieve a lot of functionality with just command line tools and simple utilities. One example I&amp;rsquo;d like to illustrate in this post is setting up desktop notifications.</description>
+      <content:encoded>
+        
+            &lt;![CDATA[https://victoria.dev/tags/linux/dunstnotif.png]]&gt;
+        
+      </content:encoded>
     </item>
     
     <item>
@@ -62,6 +82,11 @@ $ file IMG* | awk &amp;#39;BEGIN{a=0} {print substr($1, 1, length($1)-5),a++&amp
 &lt;p&gt;It should come as no surprise that Windows 10 drove me crazy.&lt;/p&gt;
 
 &lt;p&gt;Seemingly arbitrary updates&lt;/p&gt;</description>
+      <content:encoded>
+        
+            &lt;![CDATA[https://victoria.dev/tags/linux/screenshot-asakusa-stats.png]]&gt;
+        
+      </content:encoded>
     </item>
     
   </channel>
